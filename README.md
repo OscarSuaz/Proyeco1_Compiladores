@@ -22,5 +22,5 @@ Elaborar un analizador léxico en lex/flex que reconozca los componentes léxico
 
 ### Desarrolladores
 -
--
+- Arroyo Chavarria José Luis 
 - Suaznavar Arvizu Oscar Manuel
