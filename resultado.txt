@@ -1,0 +1,97 @@
+Error de sintaxis: nofunciono
+Error de sintaxis: a
+Error de sintaxis: d
+
+Tabla de Simbolos (Identificadores):
+
+(0,Iden1_)
+
+(1,Iden2_)
+
+(0,Iden1_)
+
+(1,Iden2_)
+
+
+Tabla de literales (numericas):
+
+(0,78)
+
+(1,+90)
+
+(2,-1)
+
+
+Tabla de literales (numericas REALES):
+
+(0,.89)
+
+(1,2.4)
+
+(2,7.)
+
+
+Tabla de literales (cadenas):
+
+(0,"hola mundo")
+
+(1,"debo funcionar")
+
+TOKENS:
+
+(0,0)
+
+(0,4)
+
+(1,43)
+
+(1,47)
+
+(1,36)
+
+(2,0)
+
+(2,1)
+
+(2,5)
+
+(3,40)
+
+(3,41)
+
+(3,38)
+
+(3,58)
+
+(4,1)
+
+(4,3)
+
+(4,5)
+
+(5,0)
+
+(5,1)
+
+(6,0)
+
+(6,1)
+
+(6,2)
+
+(7,0)
+
+(7,1)
+
+(7,2)
+
+(8,0)
+
+(8,1)
+
+(9,97)
+
+(5,0)
+
+(5,1)
+
